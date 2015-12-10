@@ -1,0 +1,53 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/*---------------------BODY--------------------*/
+/*Main PAGE*/
+	
+body{
+	 padding-top: 50px;
+     padding-bottom: 20px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.main-page {
+	height: 800px;
+	width: auto;
+	background: url('../img/background.png') no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.portimage {
+	height: 300px;
+	width: 300px;
+}
+
+.block{
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+.textchange{
+	width: 300px;
+	height: auto;
+}
+
+#page-top{
+	margin-left: 0px;
+	margin-right:0px;
+}
+
+.icon{
+	height: 25px;
+	width: 25px;
+}
+
+
+
+
+
+
+
+
